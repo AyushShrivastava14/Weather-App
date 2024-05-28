@@ -1,6 +1,6 @@
 # Weather-App
 A simple weather app using <a href="https://openweathermap.org/api">Weather API</a>
-<br/>
+<br/><br/>
 <b>Procedure:-</b><br/>
 1. Visit the site given above and sign up.<br/>
 2. After signing up go to the API option in the navigation menu.<br/>
